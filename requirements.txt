@@ -1,0 +1,5 @@
+pytest
+poetry
+pandas
+biopython
+numpy
